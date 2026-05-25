@@ -56,6 +56,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           {children}
         </div>
       </main>
+      <elevenlabs-convai agent-id="agent_4001k1jp3xa7fjy88mxg1q6c5bnb"></elevenlabs-convai>
     </div>
   );
 };

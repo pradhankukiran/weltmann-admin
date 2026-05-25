@@ -62,7 +62,6 @@ const Sidebar: React.FC<SidebarProps> = ({ isMobileOpen, toggleSidebar }) => {
             />
           </ul>
         </nav>
-        <elevenlabs-convai agent-id="agent_4001k1jp3xa7fjy88mxg1q6c5bnb"></elevenlabs-convai>
       </aside>
       
       {/* Overlay for mobile */}
